@@ -7,9 +7,9 @@
 На тестирование затрачено: 2 часа
 
 В результате тестирования выявлены следующие дефекты:
-* [000001 Ключ из всех нулей не валиден](https://github.com/nmoraru/javaqa_1.1/blob/master/issues.md)
-* [000002 Некорректный список валидных ключей](https://github.com/nmoraru/javaqa_1.1/blob/master/issues.md)
-* [000003 Некорректные список невалидных ключей](https://github.com/nmoraru/javaqa_1.1/blob/master/issues.md) 
+* [000001 Ключ из всех нулей не валиден](https://github.com/nmoraru/javaqa_1.1/blob/master/issue_000001.md)
+* [000002 Некорректный список валидных ключей](https://github.com/nmoraru/javaqa_1.1/blob/master/issue_000002.md)
+* [000003 Некорректные список невалидных ключей](https://github.com/nmoraru/javaqa_1.1/blob/master/issue_000003.md) 
 
 ## Описание процесса тестирования
 
